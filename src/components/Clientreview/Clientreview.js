@@ -14,7 +14,13 @@ const Clientreview = () => {
         gap: "40px",
       }}
     >
-      <div style={{ width: "50vw", backgroundColor: "whitesmoke" }}>
+      <div
+        style={{
+          width: "50vw",
+          backgroundColor: "whitesmoke",
+          marginBottom: "10px",
+        }}
+      >
         <h1 style={{ fontSize: "25px", textAlign: "center" }}>
           <span>
             <td
@@ -152,6 +158,7 @@ const Clientreview = () => {
         style={{
           boxShadow: "rgba(100, 100, 111, 0.2) 0px 7px 29px 0px",
           width: "30vw",
+          marginBottom: "10px",
         }}
       >
         <h1 style={{ fontSize: "25px", textAlign: "center" }}>

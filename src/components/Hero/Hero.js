@@ -7,7 +7,7 @@ const Hero = () => {
     <>
       <div className="container">
         <div className="backgroundImg">
-          <div className="navBar flex mt-2 mb-2 justify-around 	">
+          <div className="navBar flex justify-around 	">
             <div className="logo  ">
               <img src="/images/logo.png" alt="img" className="h-12" />
             </div>
