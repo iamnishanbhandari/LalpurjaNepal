@@ -1,0 +1,6 @@
+.backgroundImg {
+  background-image: url("https://images.wallpaperscraft.com/image/single/city_building_skyscraper_166946_3840x2400.jpg");
+  height: 100vh;
+  filter: grayscale(50%);
+  filter: blur(20%);
+}
