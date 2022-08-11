@@ -7,7 +7,7 @@ const Clientreview = () => {
       style={{
         // outline: "1px solid red",
         height: "80vh",
-        width: "100vw",
+        width: "90vw",
         margin: "15px 0px 0px 5px",
         display: "flex",
         justifyContent: "space-around",
