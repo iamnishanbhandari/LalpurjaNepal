@@ -106,7 +106,7 @@ const Hero = () => {
               <svg
                 xmlns="http://www.w3.org/2000/svg"
                 viewBox="0 0 1440 320 "
-                style={{ marginTop: "58px" }}
+                style={{ marginTop: "66px" }}
               >
                 <path
                   fill="#FFB300 "
